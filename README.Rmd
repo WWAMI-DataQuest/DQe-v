@@ -1,9 +1,3 @@
----
-title: "Variability Explorer Tool"
-author: "Hossein Estiri"
-date: "January, 2016"
----
-
 ## Introduction to the Application
 
 This application has been built to help researchers (or any other potential data users) explore variability in Electronic Health Record (EHR) data. Multiple statistical procedures exist for detecting anomalies in data. Most of these procedures have been designed for time series data that, by definition, do not match characteristics of patient records stored daily in EHR systems. Other methods to detect variability in data might be considered too “statistical” for the average clinical researchers, and are expected to be conducted at the "study" level – not as an overall view of variability at database/warehouse levels. This tool provides an interactive visual solution to overview of variability in data from two lenses, an "exploratory" view and a "regression-based" view. 
